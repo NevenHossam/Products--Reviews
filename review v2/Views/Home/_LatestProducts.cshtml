@@ -1,0 +1,31 @@
+﻿@Model IEnumerable<review_v2.Models.Product>
+
+@foreach (var itemm in Model)
+{
+
+
+    <div class="grid_1_of_4 images_1_of_4">
+        <a href="~/Review/ReviewsOfProduct/@itemm.Id">
+            @if (!string.IsNullOrEmpty(itemm?.ProductImageUrl))
+            {
+                <img src="~/ProductsImages/@itemm.ProductImageUrl" style="height:148.16px;">
+            }
+            else
+            {
+                <img src="~/ProductsImages/defult.jpg" style="height:148.16px;">
+            }
+
+        </a>
+        <h2>@Html.DisplayFor(modelItem => itemm.Name)</h2>
+        <div class="price-details">
+            <div class="price-number">
+                <p><span class="rupees"> @Html.DisplayFor(modelItem => itemm.Price) @review_v2.Resources.MyTexts.LE</span></p>
+            </div>
+            <div class="add-cart">
+                <h4><a href="~/Review/ReviewsOfProduct/@itemm.Id">@Html.DisplayFor(modelItem => itemm.TotalPercentageRate)</a></h4>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+}

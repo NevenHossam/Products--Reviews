@@ -1,0 +1,405 @@
+﻿@model review_v2.ViewModel.ProductReviewViewModel
+
+@{
+    ViewBag.Title = "ReviewsOfProduct";
+}
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="~/CustomWeb/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <script type="text/javascript" src="~/CustomWeb/js/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="~/CustomWeb/js/move-top.js"></script>
+    <script type="text/javascript" src="~/CustomWeb/js/easing.js"></script>
+    <script src="~/CustomWeb/js/easyResponsiveTabs.js" type="text/javascript"></script>
+    <link href="~/CustomWeb/css/easy-responsive-tabs.css" rel="stylesheet" type="text/css" media="all" />
+    <link rel="stylesheet" href="~/CustomWeb/css/global.css">
+    <script src="~/CustomWeb/js/slides.min.jquery.js"></script>
+    <script>
+        $(function () {
+            $('#products').slides({
+                preload: true,
+                preloadImage: 'img/loading.gif',
+                effect: 'slide, fade',
+                crossfade: true,
+                slideSpeed: 350,
+                fadeSpeed: 500,
+                generateNextPrev: true,
+                generatePagination: false
+            });
+        });
+    </script>
+</head>
+<br />
+<br />
+<div class="box box-widget">
+    <!-- /.box-header -->
+    @*<div class="box-body">
+            @if (!string.IsNullOrEmpty(Model.Image))
+            {
+                <img class="img-responsive pad" src="~/ProductsImages/@Model.Image" width="500px" height="300px" alt="Photo">
+            }
+            else
+            {
+                <img class="img-responsive pad" src="~/ProductsImages/defult.jpg" width="500px" height="300px" alt="Photo">
+            }
+            <p>
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ProductCategory.Category)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.CategoryName)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.TotalPercentageRate)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.TotalPercentageRate)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ProdcutPrice)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.ProdcutPrice)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.ProductFeatures)
+                    </dt>
+                    <dd>
+                        @Html.DisplayFor(model => model.ProductFeatures)
+                    </dd>
+                </dl>
+            </p>
+
+
+
+        </div>*@
+    <!-- /.box-body -->
+    @*@foreach (var item in Model.ProductReviewsList)
+        {
+            <div class="box-footer box-comments">
+
+
+                <div class="box-comment">
+                    <!-- User image -->
+                    <div class="widget-user-image">
+                        @if (!string.IsNullOrEmpty(Model?.Image))
+                        {
+                            <img class="img-circle img-sm" src="~/ProductsImages/@Model.Image" alt="User Image">
+                        }
+                        else
+                        {
+                            <img class="img-circle img-sm" src="~/ProductsImages/defaultUser.jpg" alt="User Image">
+                        }
+                    </div>
+                    <div class="comment-text">
+                        <span class="username">
+                            @Html.DisplayFor(modelItem => item.ReviewOwner)
+                            <span class="text-muted pull-right">
+                                @Html.DisplayFor(modelItem => item.Date) -
+                                @Html.DisplayFor(modelItem => item.Time)
+                                <br />
+                                @Html.DisplayFor(modelItem => item.Ratio)
+                            </span>
+
+                        </span>
+                        <!-- /.username -->
+                        @Html.DisplayNameFor(modelItem => item.Rate) :
+                        @Html.DisplayFor(modelItem => item.Rate)
+                        <br />
+                        @Html.DisplayNameFor(modelItem => item.Comment) :
+                        @Html.DisplayFor(modelItem => item.Comment)
+                        <br />
+                        @if (User.Identity.Name == item.ReviewOwner)
+                        {
+                            @Html.ActionLink("Edit", "Edit", "Review", new { id = item.Id }, new { @class = "btn btn-primary" })
+                            @Html.ActionLink("Delete", "Delete", "Review", new { id = item.Id }, new { @class = "btn btn-primary" })
+                        }
+                        else
+                        {
+
+                        }
+
+                    </div>
+                    <!-- /.comment-text -->
+                </div>
+                <!-- /.box-comment -->
+            </div>
+        }*@
+    <!-- /.box-footer -->
+    @if (User.Identity.Name == null)
+    {
+        <div class="box-footer">
+            <form action="#" method="post">
+                <img class="img-responsive img-circle img-sm" src="~/Content/dist/img/user4-128x128.jpg" alt="Alt Text">
+                <!-- .img-push is used to add margin to elements next to floating images -->
+                <div class="img-push">
+                    <input type="text" class="form-control input-sm" placeholder="Press enter to post comment">
+                </div>
+            </form>
+        </div>
+    }
+    <!-- /.box-footer -->
+</div>
+
+
+<table class="table"></table>
+
+<div class="content_top">
+    <div class="back-links">
+        <h3> <a href="#" style="color:#8b5c7e">@Html.DisplayFor(model => model.CategoryName)</a></h3>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div class="section group">
+    <div class="cont-desc span_1_of_2">
+        <div class="product-details">
+            <div class="grid images_3_of_2">
+                <div id="container">
+                    <div id="products_example">
+                        <div id="products">
+                            <div class="img-responsive pad">
+                                <a href="#" target="_blank">
+                                    @if (!string.IsNullOrEmpty(Model.Image))
+                                    {
+                                        <img class="img-responsive pad" src="~/ProductsImages/@Model.Image" alt="Photo">
+                                    }
+                                    else
+                                    {
+                                        <img class="img-responsive pad" src="~/ProductsImages/defult.jpg" alt="Photo">
+                                    }
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="desc span_3_of_2">
+                <span style="font-size:large">@Html.DisplayFor(model => model.ProductName)</span>
+                <p>@Html.DisplayFor(model => model.ProductFeatures)</p>
+                <div class="price">
+                    <p>Price: <span style="color:#8b5c7e">@Html.DisplayFor(model => model.ProdcutPrice)LE</span></p>
+                </div>
+
+                <div class="share-desc">
+
+                    <div class="button"><span><a href="#">@Html.DisplayFor(model => model.TotalPercentageRate)</a></span></div>
+
+
+                    <div class="clear"></div>
+                </div>
+                @*<div class="wish-list">
+                        <ul>
+
+                            <li class="compare"><a href="#">Add to Compare</a></li>
+                        </ul>
+                    </div>*@
+            </div>
+            <div class="clear"></div>
+        </div>
+        <span class="pull-right text-muted">
+
+            @Model.ProductReviewsPositiveList.Count - @review_v2.Resources.MyTexts.PositiveReviews
+            <br />
+            @Model.ProductReviewsNegativeList.Count - @review_v2.Resources.MyTexts.NegativeReviews
+        </span>
+        <br />
+        <hr />
+        <div id="product-reviews" style=" height : 550px; overflow : auto;">
+            @*<div id="product-reviews" style=" height : 550px; overflow-x: hidden; 
+  overflow-y: scroll">*@
+                @Html.Partial("_Reviews", Model)
+            </div>
+
+            @if (User.IsInRole("Company")) { }
+            else
+            {
+                <div class="comment-text">
+                    <div class="row" style="margin-left:55px; margin-top:5px;">
+                        @Html.TextArea("NewComment",
+                         new
+                         {
+                             @Id = "NewComment",
+                             @class = "form-control col-md-9"
+                             ,
+                             @rows = "2",
+                             @dir = "rtl"
+                             ,
+                             @style = "max-width:540px;resize: none;"
+                             ,
+                             @placeholder = "ضع تعليقا مناسباَ"
+                         })
+                        <br />
+                        @if (User.Identity.Name != null)
+                        {
+                            <div>
+                                <button type="button" style="margin-left: 5px;" class="btn btn-success" onclick="AddComment(@Model.ProductId)">@review_v2.Resources.MyTexts.Comment</button>
+                            </div>
+
+                        }
+                    </div>
+
+                </div>
+            }
+            <!-- /.box-footer -->
+            @if (User.Identity.Name == null)
+            {
+                <div class="box-footer">
+                    <form action="#" method="post">
+                        <img class="img-responsive img-circle img-sm" src="~/Content/dist/img/user4-128x128.jpg" alt="Alt Text">
+                        <!-- .img-push is used to add margin to elements next to floating images -->
+                        <div class="img-push">
+                            <input type="text" class="form-control input-sm" placeholder="Press enter to post comment">
+                        </div>
+                    </form>
+                </div>
+            }
+            <div class="content_bottom">
+                <div class="heading">
+                    <h3>@review_v2.Resources.MyTexts.RelatedProducts</h3>
+                </div>
+
+                <div class="see">
+                    <p><a href="~/Product/Index">@review_v2.Resources.MyTexts.SeeAllProducts</a></p>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="section group">
+                @foreach (var itemm in Model.LatestProductsList)
+                {
+
+
+                    <div class="grid_1_of_4 images_1_of_4">
+                        <a href="~/Review/ReviewsOfProduct/@itemm.Id">
+                            @if (!string.IsNullOrEmpty(itemm?.ProductImageUrl))
+                            {
+                                <img src="~/ProductsImages/@itemm.ProductImageUrl" style="height:148.16px;">
+                            }
+                            else
+                            {
+                                <img src="~/ProductsImages/defult.jpg" style="height:148.16px;">
+                            }
+
+                        </a>
+                        <h2>@Html.DisplayFor(modelItem => itemm.Name)</h2>
+                        <div class="price-details">
+                            <div class="price-number">
+                                <p><span class="rupees"> @Html.DisplayFor(modelItem => itemm.Price) </span></p>
+                            </div>
+                            <div class="add-cart">
+                                <h4><a href="~/Review/ReviewsOfProduct/@itemm.Id">@Html.DisplayFor(modelItem => itemm.TotalPercentageRate)</a></h4>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+
+                }
+
+
+
+            </div>
+        </div>
+    <div class="rightsidebar span_3_of_1">
+        <h2>@review_v2.Resources.MyTexts.Categories</h2>
+        <ul class="side-w3ls">
+            <li><a href="@Url.Action("Index","Product",new { @type=1 })">@review_v2.Resources.MyTexts.MobilePhones</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=2 })">@review_v2.Resources.MyTexts.Desktop</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=3 })">@review_v2.Resources.MyTexts.LAPTOP</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=4 })">@review_v2.Resources.MyTexts.STEAMIRON</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=5 })">@review_v2.Resources.MyTexts.Refrigerator</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=6 })">@review_v2.Resources.MyTexts.TV</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=7 })">@review_v2.Resources.MyTexts.AIRCONDITIONER</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=8 })">@review_v2.Resources.MyTexts.FAN</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=13 })">@review_v2.Resources.MyTexts.CAMERA</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=14 })">@review_v2.Resources.MyTexts.MICROWAVE</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=15})">@review_v2.Resources.MyTexts.HEATER</a></li>
+            <li><a href="@Url.Action("Index","Product",new { @type=16 })">@review_v2.Resources.MyTexts.STOVE</a></li>
+        </ul>
+
+
+    </div>
+</div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel" style="color: #8b5c7e;"></h4>
+            </div>
+            <div class="modal-body">
+                <div class="comment-text">
+                    <div class="row" style="margin: 5px 5px 5px 5px;">
+                        <input type="hidden" id="review-id" />
+                        @Html.TextArea("edit-review-comment",
+                            new {@class = "form-control col-md-9", @rows = "3", @id = "edit-review-comment", @dir = "rtl", @style = "max-width:540px;resize: none;"})
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">@review_v2.Resources.MyTexts.Close</button>
+                <button type="button" class="btn btn-primary" onclick="SaveComment( @Model.ProductId)">@review_v2.Resources.MyTexts.SaveChanges</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function() {
+        $('#myModal').on('hide', function () {
+                $("#myModalLabel").val('');
+                $("#edit-review-ratio").val('');
+                $("#edit-review-comment").val('');
+
+            });
+    });
+    function AddComment(id) {
+        var data = { productId: id, comment: $("#NewComment").val() };
+        console.log(data);
+        $.ajax({
+            method : 'POST',
+            data: data,
+            url: "@Url.Action("AddComment","Review")",
+            success: function (result) {
+                console.log(id);
+                $('#NewComment').val('');
+                $("#product-reviews").load("@Url.Action("ReloadReviews","Review")", data);
+            }
+        });
+    }
+
+    function EditComment(reviewId) {
+        var data = { Id: reviewId };
+        $.ajax({
+            method: 'Get',
+            data: data,
+            url: "@Url.Action("GetReview","Review")",
+            success: function (result) {
+                $("#review-id").val(result.Id);
+                $("#myModalLabel").empty().append(result.ReviewOwner + " : " + result.Rate);
+                $("#edit-review-ratio").empty().append(result.Ratio);
+                $("#edit-review-comment").val(result.Comment);
+            }
+        });
+        $("#myModal").modal();
+    }
+    function SaveComment(ProdId) {
+        var data = { reviewId: $("#review-id").val(), comment: $("#edit-review-comment").val(), productId : ProdId };
+        $.ajax({
+            method: 'Post',
+            data : data,
+            url: "@Url.Action("EditComment","Review")",
+            success: function (result) {
+                $("#product-reviews").load("@Url.Action("ReloadReviews","Review")", data);
+                $('#myModal').modal('hide');
+            }
+        });
+    }
+</script>

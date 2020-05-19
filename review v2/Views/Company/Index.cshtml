@@ -1,0 +1,165 @@
+﻿@model IEnumerable<review_v2.Models.ApplicationUser>
+
+<head>
+    <link href="~/web/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+@{
+    /**/
+
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<header class="header fixed-top clearfix">
+    <!--logo start-->
+    <div class="brand">
+        <a href="/Home/Index" class="logo">
+            REVIEWERY
+        </a>
+        <div class="sidebar-toggle-box">
+            <div class="fa fa-bars"></div>
+        </div>
+    </div>
+    <!--logo end-->
+    <div class="nav notify-row" id="top_menu">
+        <!--  notification start -->
+        <ul class="nav top-menu">
+
+
+            <!-- notification dropdown end -->
+        </ul>
+        <!--  notification end -->
+    </div>
+    <div class="top-nav clearfix">
+        <!--search & user info start-->
+        <ul class="nav pull-right top-menu">
+
+
+        </ul>
+        <!--search & user info end-->
+    </div>
+</header>
+
+<section id="main-content">
+    <section class="wrapper">
+        <h2>@review_v2.Resources.MyTexts.CompaniesList</h2>
+        @if (ViewContext.HttpContext.User.IsInRole("Admin"))
+        {
+            if (!Model.Any())
+            {
+        <p>@review_v2.Resources.MyTexts.DontHaveCompany </p>
+                <p>
+                    @Html.ActionLink(@review_v2.Resources.MyTexts.AddCompany, "Create", "Company")
+                </p>
+            }
+            else
+            {
+                <div class="box box-primary">
+                    <!-- /.box-header -->
+                    <div class="box-body">
+
+                        <table id="example1" class="table table-bordered table-agile-info">
+                            <thead>
+                                @*<a class="btn btn-primary" href="/Company/Create?Length=7" style="float:right">Create New Company</a>*@
+
+                                <tr>
+                                    <th style="background-color:#DDEDE0"><h3 style="color:#8b5c7e ">@review_v2.Resources.MyTexts.CompanyImage</h3></th>
+                                    <th style="background-color:#DDEDE0">
+                                        <h3 style="color:#8b5c7e ">
+                                            @Html.DisplayNameFor(model => model.UserName)
+                                            </h3>
+                                    </th>
+                                    <th style="background-color:#DDEDE0">
+                                        <h3 style="color:#8b5c7e ">
+                                            @Html.DisplayNameFor(model => model.Email)
+                                            </h3>
+                                    </th>
+                                    <th style="background-color:#DDEDE0"><h3 style="color:#8b5c7e ">@review_v2.Resources.MyTexts.Delete</h3></th>
+                                    <th style="background-color:#DDEDE0"><h3 style="color:#8b5c7e ">@review_v2.Resources.MyTexts.Blockun</h3></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td style="color:black">
+                                            @if (!string.IsNullOrEmpty(item?.UserImageURL))
+                                            {
+                                                <img class="img-circle img-sm" src="~/ProductsImages/@item.UserImageURL" width="100" height="100" alt="User Image">
+                                            }
+                                            else
+                                            {
+                                                <img class="img-circle img-sm" src="~/ProductsImages/defaultUser.jpg" width="100" height="100" alt="User Image">
+                                            }
+                                        </td>
+                                        <td style="color:black">
+                                            @Html.DisplayFor(modelItem => item.UserName)
+                                        </td>
+                                        <td style="color:black">
+                                            @Html.DisplayFor(modelItem => item.Email)
+                                        </td>
+
+                                        @if (User.Identity.Name == item.UserName)
+                                        {
+                                            <td style="color:black">
+                                                @Html.ActionLink(@review_v2.Resources.MyTexts.Edit, "EditProfile", new { id = item.Id })
+                                            </td>
+                                            <td style="color:black">
+                                                @Html.ActionLink(@review_v2.Resources.MyTexts.Delete, "Delete", new { id = item.Id })
+                                            </td>
+                                        }
+                                        else if (User.Identity.Name != item.UserName && User.IsInRole("Admin"))
+                                        {
+                                            <td style="color:black">
+                                                @Html.ActionLink(@review_v2.Resources.MyTexts.Delete, "Delete", new { id = item.Id} ,new { Style = "color:#8b5c7e;" } )
+                                            </td>
+                                            <td style="color:black">
+                                                @if (item.LockoutEnabled)
+                                                {
+                                                    @Html.ActionLink(@review_v2.Resources.MyTexts.Block, "BlockUser", "Admin", new { id = item.Id, QueryString = "Company" }, new { @class = "btn btn-danger" })
+                                                }
+                                                else
+                                                {
+                                                    @Html.ActionLink(@review_v2.Resources.MyTexts.UnBlock, "ReActivateUser", "Admin", new { id = item.Id, QueryString = "Company" }, new { @class = "btn btn-success" })
+                                                }
+                                            </td>
+                                        }
+
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            }
+        }
+
+        </section>
+    </section>
+
+
+            <script>
+                $(document).ready(function () {
+                    $("#example1 .js-delete").on("click", function () {
+                        var button = $(this);
+
+                        bootbox.confirm("Are you sure you want to delete this?", function (result) {
+                            if (result) {
+                                console.log("yes");
+                                $.ajax({
+                                    url: "/Company/Delete/" + button.attr("data-company-id"),
+                                    method: "DELETE",
+                                    success: function () {
+                                        button.parents("tr").remove();
+                                    }
+                                });
+                            }
+                        });
+
+                    });
+                });
+            </script>
+
+        
+
+

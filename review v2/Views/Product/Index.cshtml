@@ -1,0 +1,227 @@
+﻿@model IEnumerable<review_v2.Models.Product>
+
+<head>
+
+    @*<link href="~/web/css/style.css" rel="stylesheet" type="text/css" media="all" />*@
+    <link href="~/CustomWeb/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<br />
+<br />
+<br />
+
+@{
+    /**/
+
+
+    ViewBag.Title = "Index";
+    //if (User.IsInRole("Admin"))
+    //{
+    //    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    //}
+    //if (User.IsInRole("Company"))
+    //{
+    //    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    //}
+
+
+}
+@Html.Partial("valView")
+
+@*else
+    {
+        <div class="box box-primary">
+            <div class="box-header">
+                <h3 class="box-title">Product List</h3>
+                @if (User.IsInRole("Company"))
+                {
+                    @Html.ActionLink("Create New Product", "Create", "Product", new { @style = "float:Right", @class = "btn btn-primary" })
+                }
+            </div>
+            <div class="box-body">
+                <table id="example1" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Name)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.CompanyName)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.ProductCategory)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.TotalPercentageRate)
+                            </th>
+                            <th>
+                                @Html.DisplayNameFor(model => model.Price)
+                            </th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Name)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.CompanyName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.ProductCategory.Category)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.TotalPercentageRate)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.Price)
+                                </td>
+
+                                <td>
+                                    @Html.ActionLink("Show Reviews", "ReviewsOfProduct", "Review", new { id = item.Id }, null)
+                                </td>
+
+                                @if (User.IsInRole("Company") == true && User.Identity.Name == item.Type)
+                                {
+                                    <td>
+                                        @Html.ActionLink("Edit", "Edit", "Product", new { id = item.Id }, null)
+                                    </td>
+                                    <td>
+                                        @Html.ActionLink("Delete", "Delete", "Product", new { id = item.Id }, null)
+                                    </td>
+                                }
+                                else
+                                {
+                                    <td></td>
+                                    <td></td>
+                                }
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    }*@
+
+
+
+<div class="see">
+    <p><a href="~/Product/Index">@review_v2.Resources.MyTexts.SeeAllProducts</a></p>
+</div>
+<div class="clear"></div>
+@if (User.IsInRole("Company"))
+{
+    @Html.ActionLink(@review_v2.Resources.MyTexts.CreateNewProduct, "Create", "Product", new { @style = "float:Right", @class = "btn btn-primary" })
+}
+
+<div class="search_box">
+
+    @using (Html.BeginForm("Search", "Product"))
+    {
+        <input name="searchQuery" type="text" value=@review_v2.Resources.MyTexts.Search onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}"><input type="submit" value="">
+    }
+
+</div>
+
+
+<div class="header_slide">
+    <div class="header_bottom_left">
+        <div class="categories">
+            <ul>
+                <h3>@review_v2.Resources.MyTexts.Categories</h3>
+                <li><a href="@Url.Action("Index","Product",new { @type=1 })">@review_v2.Resources.MyTexts.MobilePhones</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=2 })">@review_v2.Resources.MyTexts.Desktop</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=3 })">@review_v2.Resources.MyTexts.LAPTOP</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=4 })">@review_v2.Resources.MyTexts.STEAMIRON</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=5 })">@review_v2.Resources.MyTexts.Refrigerator</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=6 })">@review_v2.Resources.MyTexts.TV</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=7 })">@review_v2.Resources.MyTexts.AIRCONDITIONER</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=8 })">@review_v2.Resources.MyTexts.FAN</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=13 })">@review_v2.Resources.MyTexts.CAMERA</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=14 })">@review_v2.Resources.MyTexts.MICROWAVE</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=15})">@review_v2.Resources.MyTexts.HEATER</a></li>
+                <li><a href="@Url.Action("Index","Product",new { @type=16 })">@review_v2.Resources.MyTexts.STOVE</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="header_bottom_right">
+    <div class="slider">
+
+
+        <div class="section group">
+
+            @if (!Model.Any())
+            {
+                @*if (User.IsInRole("Company"))
+                {
+
+                    @Html.ActionLink(@review_v2.Resources.MyTexts.CreateNewProduct, "Create", "Product")
+
+                }*@
+
+
+
+                <img src="~/ProductsImages/download.png" style="margin-left:200px; height:300px;" />
+                <h1 style="color:#8b5c7e; margin-left:300px; "> @review_v2.Resources.MyTexts.NoProduct</h1>
+            }
+
+
+
+            @foreach (var itemm in Model)
+            {
+
+
+                <div class="grid_1_of_4 images_1_of_4">
+                    <a href="~/Review/ReviewsOfProduct/@itemm.Id">
+                        @if (!string.IsNullOrEmpty(itemm?.ProductImageUrl))
+                        {
+                            <img src="~/ProductsImages/@itemm.ProductImageUrl" style="height:148.16px;">
+                        }
+                        else
+                        {
+                            <img src="~/ProductsImages/defult.jpg" style="height:148.16px;">
+                        }
+
+                    </a>
+                    <h2>@Html.DisplayFor(modelItem => itemm.Name)</h2>
+                    <div class="price-details">
+                        <div class="price-number">
+                            <p><span class="rupees"> @Html.DisplayFor(modelItem => itemm.Price) @review_v2.Resources.MyTexts.LE</span></p>
+                        </div>
+                        <div class="add-cart">
+                            <h4><a href="~/Review/ReviewsOfProduct/@itemm.Id">@Html.DisplayFor(modelItem => itemm.TotalPercentageRate)</a></h4>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+
+            }
+
+
+        </div>
+
+
+    </div>
+</div>
+
+
+@*@section scripts {
+
+
+
+
+        <script>
+            $(function () {
+                $('#example1').DataTable()
+            })
+        </script>
+    }*@
+

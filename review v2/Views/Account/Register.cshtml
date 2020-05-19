@@ -1,0 +1,154 @@
+﻿@model review_v2.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+<script src="~/Scripts/jquery-3.3.1.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+@**
+
+    <h2>@ViewBag.Title.</h2>
+
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        <h4>Create a new account.</h4>
+        <hr />
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(m => m.NickName, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.NickName, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(m => m.PhoneNumber, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" class="btn btn-default" value="Register" />
+            </div>
+        </div>
+    }
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+*@
+
+
+
+<head>
+    <title>Visitors an Admin Panel Category Bootstrap Responsive Website Template | Registration :: w3layouts</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Visitors Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- bootstrap-css -->
+    <link rel="stylesheet" href="~/web/css/bootstrap.min.css">
+    <!-- //bootstrap-css -->
+    <!-- Custom CSS -->
+    <link href="~/web/css/style.css" rel='stylesheet' type='text/css' />
+    <link href="~/webcss/style-responsive.css" rel="stylesheet" />
+    <!-- font CSS -->
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- font-awesome icons -->
+    <link rel="stylesheet" href="~/web/css/font.css" type="text/css" />
+    <link href="~/web/css/font-awesome.css" rel="stylesheet">
+    <!-- //font-awesome icons -->
+    <script src="~/web/js/jquery2.0.3.min.js"></script>
+</head>
+
+<div class="reg-w3">
+    <div class="w3layouts-main">
+
+        @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+        {
+            @Html.AntiForgeryToken()
+        <h2>@review_v2.Resources.MyTexts.RegisterNow</h2>
+
+            @Html.ValidationSummary("", new { @class = "text-danger" })
+            <div class="form-group">
+
+                <input class="ggg" name="NickName" placeholder=@review_v2.Resources.MyTexts.UserName required="">
+            </div>
+            <div class="form-group">
+                @*@Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                    </div>*@
+                <input type="email" class="ggg" name="Email" placeholder=@review_v2.Resources.MyTexts.Email required="">
+            </div>
+            <div class="form-group">
+                @*@Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                    </div>*@
+                <input type="password" class="ggg" name="Password" placeholder=@review_v2.Resources.MyTexts.PASSWORD required="">
+            </div>
+            <div class="form-group">
+                @*@Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })*@
+                <input type="password" class="ggg" name="ConfirmPassword" placeholder=@review_v2.Resources.MyTexts.ConfirmPassword required="">
+            </div>
+
+            <div class="form-group">
+                @*@Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                    </div>*@
+                <input class="ggg" name="PhoneNum" placeholder=@review_v2.Resources.MyTexts.PhoneNumber>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" class="btn btn-default" value=@review_v2.Resources.MyTexts.Regiester />
+                </div>
+            </div>
+        }
+        <p>
+            @Html.ActionLink(review_v2.Resources.MyTexts.AlraedyReg, "Login")
+        </p>
+    </div>
+</div>
+
+<script src="~/web/js/bootstrap.js"></script>
+<script src="~/web/js/jquery.dcjqaccordion.2.7.js"></script>
+<script src="~/web/js/scripts.js"></script>
+<script src="~/web/js/jquery.slimscroll.js"></script>
+<script src="~/web/js/jquery.nicescroll.js"></script>
+<!--[if lte IE 8]><script language="javascript" type="text/javascript" src="js/flot-chart/excanvas.min.js"></script><![endif]-->
+<script src="~/web/js/jquery.scrollTo.js"></script>
+
+
+        @Scripts.Render("~/bundles/jqueryval")
+    
+
+
+@*@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+
+}*@

@@ -1,0 +1,1097 @@
+E:\Projects\Visual\review v2\review v2\bin\ApplicationInsights.config
+E:\Projects\Visual\review v2\review v2\bin\review v2.dll.config
+E:\Projects\Visual\review v2\review v2\bin\review v2.dll
+E:\Projects\Visual\review v2\review v2\bin\review v2.pdb
+E:\Projects\Visual\review v2\review v2\bin\roslyn\csc.exe
+E:\Projects\Visual\review v2\review v2\bin\roslyn\csc.exe.config
+E:\Projects\Visual\review v2\review v2\bin\roslyn\csc.rsp
+E:\Projects\Visual\review v2\review v2\bin\roslyn\csi.exe
+E:\Projects\Visual\review v2\review v2\bin\roslyn\csi.exe.config
+E:\Projects\Visual\review v2\review v2\bin\roslyn\csi.rsp
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\Visual\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.AppContext.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Console.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\Visual\review v2\review v2\bin\roslyn\vbc.exe
+E:\Projects\Visual\review v2\review v2\bin\roslyn\vbc.exe.config
+E:\Projects\Visual\review v2\review v2\bin\roslyn\vbc.rsp
+E:\Projects\Visual\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Visual\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Visual\review v2\review v2\bin\Antlr3.Runtime.dll
+E:\Projects\Visual\review v2\review v2\bin\EntityFramework.dll
+E:\Projects\Visual\review v2\review v2\bin\EntityFramework.SqlServer.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.Web.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.WindowsServer.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.ApplicationInsights.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\Visual\review v2\review v2\bin\Newtonsoft.Json.dll
+E:\Projects\Visual\review v2\review v2\bin\Owin.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Helpers.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Mvc.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Optimization.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Razor.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.WebPages.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.WebPages.Razor.dll
+E:\Projects\Visual\review v2\review v2\bin\WebGrease.dll
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Helpers.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Mvc.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Optimization.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Web.Razor.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Web.WebPages.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Web.WebPages.Razor.xml
+E:\Projects\Visual\review v2\review v2\bin\Newtonsoft.Json.xml
+E:\Projects\Visual\review v2\review v2\bin\Antlr3.Runtime.pdb
+E:\Projects\Visual\review v2\review v2\bin\EntityFramework.xml
+E:\Projects\Visual\review v2\review v2\bin\EntityFramework.SqlServer.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\Visual\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.WindowsServer.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.AI.Web.xml
+E:\Projects\Visual\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Visual\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+E:\Projects\Visual\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+E:\Projects\Visual\review v2\review v2\obj\Debug\review v2.dll
+E:\Projects\Visual\review v2\review v2\obj\Debug\review v2.pdb
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+E:\Projects\Visual\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+F:\review v2\review v2\bin\ApplicationInsights.config
+F:\review v2\review v2\bin\review v2.dll.config
+F:\review v2\review v2\bin\review v2.dll
+F:\review v2\review v2\bin\review v2.pdb
+F:\review v2\review v2\bin\roslyn\csc.exe
+F:\review v2\review v2\bin\roslyn\csc.exe.config
+F:\review v2\review v2\bin\roslyn\csc.rsp
+F:\review v2\review v2\bin\roslyn\csi.exe
+F:\review v2\review v2\bin\roslyn\csi.exe.config
+F:\review v2\review v2\bin\roslyn\csi.rsp
+F:\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\review v2\review v2\bin\roslyn\System.AppContext.dll
+F:\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+F:\review v2\review v2\bin\roslyn\System.Console.dll
+F:\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+F:\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+F:\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+F:\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+F:\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+F:\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+F:\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+F:\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+F:\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\review v2\review v2\bin\roslyn\vbc.exe
+F:\review v2\review v2\bin\roslyn\vbc.exe.config
+F:\review v2\review v2\bin\roslyn\vbc.rsp
+F:\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+F:\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+F:\review v2\review v2\bin\Antlr3.Runtime.dll
+F:\review v2\review v2\bin\EntityFramework.dll
+F:\review v2\review v2\bin\EntityFramework.SqlServer.dll
+F:\review v2\review v2\bin\Microsoft.AI.Agent.Intercept.dll
+F:\review v2\review v2\bin\Microsoft.AI.DependencyCollector.dll
+F:\review v2\review v2\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\review v2\review v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\review v2\review v2\bin\Microsoft.AI.Web.dll
+F:\review v2\review v2\bin\Microsoft.AI.WindowsServer.dll
+F:\review v2\review v2\bin\Microsoft.ApplicationInsights.dll
+F:\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.dll
+F:\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\review v2\review v2\bin\Microsoft.Owin.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Google.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.dll
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.dll
+F:\review v2\review v2\bin\Microsoft.Web.Infrastructure.dll
+F:\review v2\review v2\bin\Newtonsoft.Json.dll
+F:\review v2\review v2\bin\Owin.dll
+F:\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\review v2\review v2\bin\System.Web.Helpers.dll
+F:\review v2\review v2\bin\System.Web.Mvc.dll
+F:\review v2\review v2\bin\System.Web.Optimization.dll
+F:\review v2\review v2\bin\System.Web.Razor.dll
+F:\review v2\review v2\bin\System.Web.WebPages.Deployment.dll
+F:\review v2\review v2\bin\System.Web.WebPages.dll
+F:\review v2\review v2\bin\System.Web.WebPages.Razor.dll
+F:\review v2\review v2\bin\WebGrease.dll
+F:\review v2\review v2\bin\System.Web.Helpers.xml
+F:\review v2\review v2\bin\System.Web.Mvc.xml
+F:\review v2\review v2\bin\System.Web.Optimization.xml
+F:\review v2\review v2\bin\System.Web.Razor.xml
+F:\review v2\review v2\bin\System.Web.WebPages.xml
+F:\review v2\review v2\bin\System.Web.WebPages.Deployment.xml
+F:\review v2\review v2\bin\System.Web.WebPages.Razor.xml
+F:\review v2\review v2\bin\Newtonsoft.Json.xml
+F:\review v2\review v2\bin\Antlr3.Runtime.pdb
+F:\review v2\review v2\bin\EntityFramework.xml
+F:\review v2\review v2\bin\EntityFramework.SqlServer.xml
+F:\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.xml
+F:\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\review v2\review v2\bin\Microsoft.Owin.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Google.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.xml
+F:\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\review v2\review v2\bin\Microsoft.AI.DependencyCollector.xml
+F:\review v2\review v2\bin\Microsoft.AI.WindowsServer.xml
+F:\review v2\review v2\bin\Microsoft.AI.Web.xml
+F:\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+F:\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+F:\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+F:\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+F:\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+F:\review v2\review v2\obj\Debug\review v2.dll
+F:\review v2\review v2\obj\Debug\review v2.pdb
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review_v2.Migrations.editingReviewRate.resources
+D:\kolya\GP\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+D:\kolya\GP\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+D:\kolya\GP\review v2\review v2\bin\ApplicationInsights.config
+D:\kolya\GP\review v2\review v2\bin\review v2.dll.config
+D:\kolya\GP\review v2\review v2\bin\review v2.dll
+D:\kolya\GP\review v2\review v2\bin\review v2.pdb
+D:\kolya\GP\review v2\review v2\bin\roslyn\csc.exe
+D:\kolya\GP\review v2\review v2\bin\roslyn\csc.exe.config
+D:\kolya\GP\review v2\review v2\bin\roslyn\csc.rsp
+D:\kolya\GP\review v2\review v2\bin\roslyn\csi.exe
+D:\kolya\GP\review v2\review v2\bin\roslyn\csi.exe.config
+D:\kolya\GP\review v2\review v2\bin\roslyn\csi.rsp
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kolya\GP\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.AppContext.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Console.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kolya\GP\review v2\review v2\bin\roslyn\vbc.exe
+D:\kolya\GP\review v2\review v2\bin\roslyn\vbc.exe.config
+D:\kolya\GP\review v2\review v2\bin\roslyn\vbc.rsp
+D:\kolya\GP\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+D:\kolya\GP\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+D:\kolya\GP\review v2\review v2\bin\Antlr3.Runtime.dll
+D:\kolya\GP\review v2\review v2\bin\EntityFramework.dll
+D:\kolya\GP\review v2\review v2\bin\EntityFramework.SqlServer.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.DependencyCollector.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.Web.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.WindowsServer.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.ApplicationInsights.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Google.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Web.Infrastructure.dll
+D:\kolya\GP\review v2\review v2\bin\Newtonsoft.Json.dll
+D:\kolya\GP\review v2\review v2\bin\Owin.dll
+D:\kolya\GP\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.Helpers.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.Mvc.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.Optimization.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.Razor.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.WebPages.Deployment.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.WebPages.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.WebPages.Razor.dll
+D:\kolya\GP\review v2\review v2\bin\WebGrease.dll
+D:\kolya\GP\review v2\review v2\bin\System.Web.Helpers.xml
+D:\kolya\GP\review v2\review v2\bin\System.Web.Mvc.xml
+D:\kolya\GP\review v2\review v2\bin\System.Web.Optimization.xml
+D:\kolya\GP\review v2\review v2\bin\System.Web.Razor.xml
+D:\kolya\GP\review v2\review v2\bin\System.Web.WebPages.xml
+D:\kolya\GP\review v2\review v2\bin\System.Web.WebPages.Deployment.xml
+D:\kolya\GP\review v2\review v2\bin\System.Web.WebPages.Razor.xml
+D:\kolya\GP\review v2\review v2\bin\Newtonsoft.Json.xml
+D:\kolya\GP\review v2\review v2\bin\Antlr3.Runtime.pdb
+D:\kolya\GP\review v2\review v2\bin\EntityFramework.xml
+D:\kolya\GP\review v2\review v2\bin\EntityFramework.SqlServer.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Google.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\kolya\GP\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.DependencyCollector.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.WindowsServer.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.AI.Web.xml
+D:\kolya\GP\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kolya\GP\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+D:\kolya\GP\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+D:\kolya\GP\review v2\review v2\obj\Debug\review v2.dll
+D:\kolya\GP\review v2\review v2\obj\Debug\review v2.pdb
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\ApplicationInsights.config
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\review v2.dll.config
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\review v2.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\review v2.pdb
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csc.exe
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csc.exe.config
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csc.rsp
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csi.exe
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csi.exe.config
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csi.rsp
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.AppContext.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Console.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\vbc.exe
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\vbc.exe.config
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\vbc.rsp
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Antlr3.Runtime.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.SqlServer.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.DependencyCollector.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.Web.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.WindowsServer.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.ApplicationInsights.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Google.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Web.Infrastructure.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Newtonsoft.Json.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Owin.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Helpers.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Mvc.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Optimization.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Razor.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Deployment.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Razor.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\WebGrease.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Helpers.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Mvc.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Optimization.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Razor.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Deployment.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Razor.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Newtonsoft.Json.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Antlr3.Runtime.pdb
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.SqlServer.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Google.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.DependencyCollector.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.WindowsServer.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.Web.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editingReviewRate.resources
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.dll
+F:\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.pdb
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\ApplicationInsights.config
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\review v2.dll.config
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\review v2.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\review v2.pdb
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csc.exe
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csc.exe.config
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csc.rsp
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csi.exe
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csi.exe.config
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\csi.rsp
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.AppContext.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Console.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\vbc.exe
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\vbc.exe.config
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\vbc.rsp
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Antlr3.Runtime.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.SqlServer.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.Web.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.WindowsServer.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.ApplicationInsights.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Google.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Web.Infrastructure.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Newtonsoft.Json.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Owin.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Helpers.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Mvc.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Optimization.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Razor.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Deployment.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Razor.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\WebGrease.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Helpers.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Mvc.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Optimization.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.Razor.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Deployment.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Web.WebPages.Razor.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Newtonsoft.Json.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Antlr3.Runtime.pdb
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\EntityFramework.SqlServer.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Google.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.WindowsServer.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.AI.Web.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editingReviewRate.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editSentimentSpecialModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addingEnum.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addImageToIdeity.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.addProductCategoriesModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editProductModel.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check2.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check3.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check4.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNum.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNumValidation.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check5.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.dll
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.pdb
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review_v2.Migrations.check6.resources
+E:\Materials\Level 4\GP\Hadeer 4.8 3.5pm\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\ApplicationInsights.config
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\review v2.dll.config
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\review v2.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\review v2.pdb
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\csc.exe
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\csc.exe.config
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\csc.rsp
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\csi.exe
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\csi.exe.config
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\csi.rsp
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.AppContext.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Console.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\vbc.exe
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\vbc.exe.config
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\vbc.rsp
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Antlr3.Runtime.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\EntityFramework.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\EntityFramework.SqlServer.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.DependencyCollector.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.Web.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.WindowsServer.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.ApplicationInsights.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Google.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Web.Infrastructure.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Newtonsoft.Json.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Owin.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Helpers.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Mvc.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Optimization.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Razor.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.WebPages.Deployment.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.WebPages.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.WebPages.Razor.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\WebGrease.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Helpers.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Mvc.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Optimization.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.Razor.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.WebPages.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.WebPages.Deployment.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Web.WebPages.Razor.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Newtonsoft.Json.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Antlr3.Runtime.pdb
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\EntityFramework.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\EntityFramework.SqlServer.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Google.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.DependencyCollector.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.WindowsServer.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.AI.Web.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editingReviewRate.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editSentimentSpecialModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addingEnum.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addImageToIdeity.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.addProductCategoriesModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editProductModel.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check2.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check3.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check4.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNum.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNumValidation.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check5.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review_v2.Migrations.check6.resources
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review v2.dll
+D:\kolya\GP\NEW project 23.4\Neven Last version\review v2\review v2\obj\Debug\review v2.pdb
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\ApplicationInsights.config
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\review v2.dll.config
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\review v2.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\review v2.pdb
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\ar\review v2.resources.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\csc.exe
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\csc.exe.config
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\csc.rsp
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\csi.exe
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\csi.exe.config
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\csi.rsp
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.AppContext.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Console.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\vbc.exe
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\vbc.exe.config
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\vbc.rsp
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editingReviewRate.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editSentimentSpecialModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingEnum.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addImageToIdeity.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addProductCategoriesModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editProductModel.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check2.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check3.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check4.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNum.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNumValidation.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check5.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check6.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.RemoveActiveBooleanAndAddIsBlockedInUsersTable.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.RemoveIsBlockedFromUsers.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.AddProdctsSmmaryView.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Resources.MyTexts.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review_v2.Resources.MyTexts.ar.resources
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review v2.csproj.CoreCompileInputs.cache
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\ar\review v2.resources.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review v2.dll
+C:\Users\Hader\Source\Repos\Graduation Project\review v2\review v2\obj\Debug\review v2.pdb
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\ApplicationInsights.config
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\review v2.dll.config
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\review v2.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\review v2.pdb
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\ar\review v2.resources.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\csc.exe
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\csc.exe.config
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\csc.rsp
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\csi.exe
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\csi.exe.config
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\csi.rsp
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.AppContext.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Collections.Immutable.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Console.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.IO.Compression.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.IO.FileSystem.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.IO.Pipes.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Reflection.Metadata.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.AccessControl.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Claims.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.ValueTuple.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.XPath.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\vbc.exe
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\vbc.exe.config
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\vbc.rsp
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\VBCSCompiler.exe
+D:\FCIH\Projects\Graduation Project\review v2\review v2\bin\roslyn\VBCSCompiler.exe.config
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review v2.csprojAssemblyReference.cache
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingCustomerModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingCompanyModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingAdminModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingProductModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingReviewModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editingProductModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingReportModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.sentimentModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editsentimentModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.specialwordsmodel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.seekDB.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingPhoneNumber.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingUserName.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editRegisterModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.reeditingRegister.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addUsernameToRegister.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addPhoneNumberToRegister.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.deleteNickNameToRegister.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addNickNameToRegister1.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check1.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.finalcheck.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addStopWordsModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editingReviewRate.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editSentimentSpecialModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addingEnum.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addImageToIdeity.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.addProductCategoriesModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editProductModel.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check2.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check3.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check4.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNum.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.editPhoneNumValidation.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check5.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.check6.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.RemoveActiveBooleanAndAddIsBlockedInUsersTable.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.RemoveIsBlockedFromUsers.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Migrations.AddProdctsSmmaryView.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Resources.MyTexts.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review_v2.Resources.MyTexts.ar.resources
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review v2.csproj.GenerateResource.cache
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\ar\review v2.resources.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review v2.csproj.CopyComplete
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review v2.dll
+D:\FCIH\Projects\Graduation Project\review v2\review v2\obj\Debug\review v2.pdb

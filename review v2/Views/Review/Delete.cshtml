@@ -1,0 +1,72 @@
+﻿@model review_v2.Models.Review
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <form role="form">
+        <div class="box box-primary">
+            <div class="box-header with-border">
+                <h3 class="box-title">Delete This Review</h3>
+            </div>
+            <div class="box-body">
+                <div class="form-horizontal">
+                    <dl class="dl-horizontal">
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.ReviewOwner)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.ReviewOwner)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Rate)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Rate)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Comment)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Comment)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Date)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Date)
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Time)
+                        </dt>
+
+                        <dd>
+                            @Html.DisplayFor(model => model.Time)
+                        </dd>
+
+                    </dl>
+                </div>
+                <div class="box-footer">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+}
+
+
+

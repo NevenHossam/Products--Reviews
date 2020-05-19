@@ -1,0 +1,344 @@
+﻿@model review_v2.ViewModel.ProductsOfCompanyViewModel
+
+@{
+                /**/
+
+                ViewBag.Title = "IndexProfile";
+                Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using Microsoft.AspNet.Identity
+<script src="~/Scripts/highcharts.js"></script>
+<script src="~/Scripts/series-label.js"></script>
+<script src="~/Scripts/exporting.js"></script>
+<script src="~/Scripts/export-data.js"></script>
+<style>
+    #container {
+        min-width: 310px;
+        max-width: 800px;
+        height: 400px;
+        margin: 0 auto
+    }
+</style>
+
+<header class="header fixed-top clearfix">
+    <!--logo start-->
+    <div class="brand">
+        <a href="/Home/Index" class="logo">
+            REVIEWERY
+        </a>
+        <div class="sidebar-toggle-box">
+            <div class="fa fa-bars"></div>
+        </div>
+    </div>
+    <!--logo end-->
+    <div class="nav notify-row" id="top_menu">
+        <!--  notification start -->
+        <ul class="nav top-menu">
+
+
+            <!-- notification dropdown end -->
+        </ul>
+        <!--  notification end -->
+    </div>
+    <div class="top-nav clearfix">
+        <!--search & user info start-->
+        <ul class="nav pull-right top-menu">
+            <!-- user login dropdown start-->
+            <li class="dropdown">
+                <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                    @if (!string.IsNullOrEmpty(Model?.CompanyImageURL))
+                    {
+                        <img class="img-circle img-sm" src="~/ProductsImages/@Model.CompanyImageURL" alt="User Image">
+                    }
+                    else
+                    {
+                        <img class="img-circle img-sm" src="~/ProductsImages/defaultUser.jpg" alt="User Image">
+                    }
+                    <span class="username">@User.Identity.GetUserName()</span>
+                    <b class="caret"></b>
+                </a>
+                <ul class="dropdown-menu extended logout">
+                    <li><a href="#"><i class=" fa fa-suitcase"></i>@review_v2.Resources.MyTexts.Profile</a></li>
+                    <li>
+                        <a href="/Company/EditProfile/@Model.CompanyId">
+                            <i class="fa fa-cog"></i>
+                            @Html.HiddenFor(Model => Model.CompanyId)
+                            @review_v2.Resources.MyTexts.Settings
+                        </a>
+                    </li>
+                    <li>
+                        <a href="~/Manage/ChangePassword/@Model.CompanyId">
+                            <i class="fa fa-cog"></i>
+                            @Html.HiddenFor(Model => Model.CompanyId)
+                            @review_v2.Resources.MyTexts.ChangePassword
+                        </a>
+
+                    </li>
+                    @*<li><a href="~/Shared/_LoginPartial"><i class="fa fa-key"></i> Log Out</a></li>*@
+                </ul>
+            </li>
+            <!-- user login dropdown end -->
+
+        </ul>
+        <!--search & user info end-->
+    </div>
+</header>
+
+
+<section id="main-content">
+    <section class="wrapper">
+        <div class="box box-widget widget-user">
+            <!-- Add the bg color to the header using any of the bg-* classes -->
+            <div class="widget-user-header bg-aqua-active">
+                <h3 class="widget-user-username">
+                    <h2>@review_v2.Resources.MyTexts.PesonalInfo</h2>
+                </h3>
+
+                <h5 class="widget-user-desc">
+                    <dl class="dl-horizontal"></dl>
+                </h5>
+            </div>
+
+
+            <div class="widget-user-image">
+                @if (!string.IsNullOrEmpty(Model?.CompanyImageURL))
+                {
+                    <img class="img-circle" src="~/ProductsImages/@Model.CompanyImageURL" width="200" height="200" alt="User Avatar">
+                }
+                else
+                {
+                    <img class="img-circle" src="~/ProductsImages/defaultUser.jpg" width="200" height="200" alt="User Avatar">
+                }
+            </div>
+
+
+            <div class="box-footer">
+                <div class="row">
+                    <div class="col-sm-4 border-right">
+                        <div class="description-block">
+                            <h5 class="description-header">
+                                <b>
+                                    @Html.DisplayNameFor(model => model.CompanyEmail) :
+                                </b>
+                            </h5>
+                            <span class="description-text">
+                                @Html.DisplayFor(model => model.CompanyEmail)
+                            </span>
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-sm-4 border-right">
+                        <div class="description-block">
+                            <h5 class="description-header">
+                                <b>
+                                    @Html.DisplayNameFor(model => model.CompanyName) :
+                                </b>
+                            </h5>
+                            <span class="description-text">
+                                @Html.DisplayFor(model => model.CompanyName)
+                            </span>
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                    <div class="col-sm-4">
+                        <div class="description-block">
+                            <h5 class="description-header"></h5>
+                            <span class="description-text">
+                                @if (User.IsInRole("Company"))
+                                {
+                                    <h3>@review_v2.Resources.MyTexts.Company</h3>
+                                }
+                            </span>
+                        </div>
+                        <!-- /.description-block -->
+                    </div>
+                    <!-- /.col -->
+                </div>
+                <!-- /.row -->
+            </div>
+
+        </div>
+
+        @Html.HiddenFor(model => model.CompanyId)
+
+        @*<div class="box box-widget widget-user">
+                <td>
+                    <button type="button" class="btn btn-lg" value="Edit Profile" style="background-color: #8b5c7e"  styl="float:right">
+
+                        @Html.ActionLink("Edit Profile", "EditProfile", "Admin", new { id = Model.UserId }, null)
+
+                    </button>
+                </td>
+            </div>*@
+
+        <div class="box box-primary">
+
+            <!-- /.box-header -->
+            <div class="box-body">
+
+                <table id="example1" class="table table-bordered table-agile-info">
+                    <thead>
+                        <tr>
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e "> @review_v2.Resources.MyTexts.ProductImage</h3>
+                            </th>
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e ">
+                                    @Html.DisplayNameFor(model => model.ProductName)
+                                </h3>
+                            </th>
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e ">
+                                    @Html.DisplayNameFor(model => model.ProductPrice)
+                                </h3>
+                            </th>
+                            @*
+                                <th style="background-color:#DDEDE0">
+                                    <h3 style="color:#8b5c7e ">
+                                        @Html.DisplayNameFor(model => model.ProductCategories)
+                                    </h3>
+                                </th>
+                            *@
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e ">
+                                    @Html.DisplayNameFor(model => model.Features)
+                                </h3>
+                            </th>
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e ">
+                                    @Html.DisplayNameFor(model => model.TotalRate)
+                                </h3>
+                            </th>
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e ">
+                                    @review_v2.Resources.MyTexts.Action
+                                </h3>
+                            </th>
+                            <th style="background-color:#DDEDE0">
+                                <h3 style="color:#8b5c7e ">
+                                    @review_v2.Resources.MyTexts.Summary
+                                </h3>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.CompanyProducts)
+                        {
+                            if (item.CompanyName == User.Identity.Name)
+                            {
+                                <tr>
+                                    <td td style="color:black">
+                                        @if (!string.IsNullOrEmpty(item?.ProductImageUrl))
+                                        {
+                                            <img class="img-circle img-sm" src="~/ProductsImages/@item.ProductImageUrl" width="100" height="100" alt="User Image">
+                                        }
+                                        else
+                                        {
+                                            <img class="img-circle img-sm" src="~/ProductsImages/defult.jpg" width="100" height="100" alt="User Image">
+                                        }
+                                    </td>
+                                    <td style="color:black">
+                                        @Html.DisplayFor(modelItem => item.Name)
+                                    </td>
+                                    <td style="color:black">
+                                        @Html.DisplayFor(modelItem => item.Price)
+                                    </td>
+                                    @*
+                                        <td style="color:black">
+                                            @Html.DisplayFor(modelItem => item.ProductCategory)
+                                        </td>
+                                    *@
+                                    <td style="color:black">
+                                        @Html.DisplayFor(modelItem => item.Features)
+                                    </td>
+                                    <td style="color:black">
+                                        @Html.DisplayFor(modelItem => item.TotalPercentageRate)
+                                    </td>
+                                    <th style="color:black">
+                                        <button class="btn btn-success" style="background-color:#f0bcb4 ;"> @Html.ActionLink(review_v2.Resources.MyTexts.Delete, "Delete", "Product", new { id = item.Id }, null)</button>
+
+                                    </th>
+                                    <th style="color:black">
+
+
+                                        <button type="button" onclick="GetProductSummary(@item.Id)" class="btn btn-success" style="background-color:#f0bcb4 ;">@review_v2.Resources.MyTexts.ReviewSummary</button>
+
+                                    </th>
+                                </tr>
+                            }
+                            else
+                            {
+                                <p>@review_v2.Resources.MyTexts.NoProduct</p>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+</section>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg " role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title" id="myModalLabel">Reviews</h4>
+            </div>
+            <div class="modal-body">
+                <div id="container"></div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function GetProductSummary(Id) {
+        var mydata = { productID: Id }
+            $.ajax({
+                type: 'Get',
+                data: mydata,
+                url: "@Url.Action("GetProductSummary", "Product")",
+                success: function(result) {
+                    $("#myModal").modal();
+                    console.log(result.data);
+                    Highcharts.chart('container', {
+                        chart: {
+                            type: 'line'
+                        },
+                        title: {
+                            text: result.title + ' monthly average rate'
+                        },
+
+                        xAxis: {
+                            categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+                        },
+                        yAxis: {
+                            title: {
+                                text: 'Average rates'
+                            }
+                        },
+                        plotOptions: {
+                            line: {
+                                dataLabels: {
+                                    enabled: true
+                                },
+                                enableMouseTracking: false
+                            }
+                        },
+                        series: [{
+                            name: result.title,
+                            data: result.data
+                        }]
+                    });
+                }
+            });
+    }
+
+</script>

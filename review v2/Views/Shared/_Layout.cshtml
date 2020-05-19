@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+<html>
+@*<html lang="@review_v2.Helpers.CultureHelper.GetCurrentNeutralCulture()" dir="@(review_v2.Helpers.CultureHelper.IsRighToLeft() ? "rtl" : "ltr")">
+    @Styles.Render("~/Content/css" + (review_v2.Helpers.CultureHelper.IsRighToLeft() ? "-rtl" : ""))
+    @Scripts.Render("~/bundles/modernizr")*@
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Reviewery Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="~/Content/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/bower_components/font-awesome/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="~/Content/bower_components/Ionicons/css/ionicons.min.css">
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/Content/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/Content/dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+         folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="~/Content/dist/css/skins/_all-skins.min.css">
+    @Scripts.Render("~/bundles/jquery")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Reviewery", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    @*<li>@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                    @if (User.IsInRole("Company"))
+                    {
+                        <li>@Html.ActionLink(review_v2.Resources.MyTexts.Profile, "IndexProfile", "Company")</li>
+                    }
+                    else if (User.IsInRole("Customer"))
+                    {
+                        <li>@Html.ActionLink(review_v2.Resources.MyTexts.Profile, "IndexProfile", "Customer")</li>
+                    }
+                    else if (User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink(review_v2.Resources.MyTexts.Profile, "IndexProfile", "Admin")</li>
+                    }
+                    <li>@Html.ActionLink(review_v2.Resources.MyTexts.Products, "Index", "Product")</li>
+                    @* <li>@Html.ActionLink(review_v2.Resources.MyTexts.Language, "Index", "Language")</li>*@
+
+
+                    <li>
+
+                        @Html.ActionLink("English", "Change", "Language", new { languageAbbreviation = "en" }, null)
+
+
+
+                    </li>
+                    <li>
+
+                        @Html.ActionLink("العربية", "Change", "Language", new { languageAbbreviation = "ar" }, null)
+
+
+
+                    </li>
+                    @*@if (User.IsInRole("Admin"))
+                        {
+                            <li>@Html.ActionLink("Customers", "Index", "Customer")</li>
+                            <li>@Html.ActionLink("Companies", "Index", "Company")</li>
+                            <li>@Html.ActionLink("Admins", "Index", "Admin")</li>
+                        }*@
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+
+
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/bootstrap" + (review_v2.Helpers.CultureHelper.IsRighToLeft() ? "-rtl" : ""))
+    @*@RenderSection("scripts", required: false)*@
+    <!-- jQuery 3 -->
+    <script src="~/Content/bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="~/Content/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- DataTables -->
+    <script src="~/Content/bower_components/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="~/Content/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <!-- SlimScroll -->
+    <script src="~/Content/bower_components/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+    <!-- FastClick -->
+    <script src="~/Content/bower_components/fastclick/lib/fastclick.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/Content/dist/js/adminlte.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    <script src="~/Content/dist/js/demo.js"></script>
+
+</body>
+</html>
